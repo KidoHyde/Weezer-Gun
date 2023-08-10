@@ -1,0 +1,15 @@
+C:\Users\alexa\source\repos\WEEZERGunDep\obj\Debug\netstandard2.0\WeezerRev.csprojAssemblyReference.cache
+C:\Users\alexa\source\repos\WEEZERGunDep\obj\Debug\netstandard2.0\PluginInfo.cs
+C:\Users\alexa\source\repos\WEEZERGunDep\obj\Debug\netstandard2.0\WeezerRev.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\WEEZERGunDep\obj\Debug\netstandard2.0\WeezerRev.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\WEEZERGunDep\obj\Debug\netstandard2.0\WeezerRev.AssemblyInfo.cs
+C:\Users\alexa\source\repos\WEEZERGunDep\bin\Debug\netstandard2.0\Assembly-CSharp.dll
+C:\Users\alexa\source\repos\WEEZERGunDep\bin\Debug\netstandard2.0\CrashRefrences.dll
+C:\Users\alexa\source\repos\WEEZERGunDep\bin\Debug\netstandard2.0\UnityEngine.UI.dll
+C:\Users\alexa\source\repos\WEEZERGunDep\bin\Debug\netstandard2.0\CrashRefrences.pdb
+C:\Users\alexa\source\repos\WEEZERGunDep\obj\Debug\netstandard2.0\WeezerRev.csproj.CopyComplete
+C:\Users\alexa\source\repos\WEEZERGunDep\bin\Debug\netstandard2.0\WeezerGun.deps.json
+C:\Users\alexa\source\repos\WEEZERGunDep\bin\Debug\netstandard2.0\WeezerGun.dll
+C:\Users\alexa\source\repos\WEEZERGunDep\bin\Debug\netstandard2.0\WeezerGun.pdb
+C:\Users\alexa\source\repos\WEEZERGunDep\obj\Debug\netstandard2.0\WeezerGun.dll
+C:\Users\alexa\source\repos\WEEZERGunDep\obj\Debug\netstandard2.0\WeezerGun.pdb

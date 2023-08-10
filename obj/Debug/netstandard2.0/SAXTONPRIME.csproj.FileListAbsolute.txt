@@ -1,0 +1,12 @@
+C:\Users\alexa\source\repos\SAXTONPRIME\bin\Debug\netstandard2.0\SAXTONPRIME.deps.json
+C:\Users\alexa\source\repos\SAXTONPRIME\bin\Debug\netstandard2.0\SAXTONPRIME.dll
+C:\Users\alexa\source\repos\SAXTONPRIME\bin\Debug\netstandard2.0\SAXTONPRIME.pdb
+C:\Users\alexa\source\repos\SAXTONPRIME\bin\Debug\netstandard2.0\Assembly-CSharp.dll
+C:\Users\alexa\source\repos\SAXTONPRIME\obj\Debug\netstandard2.0\SAXTONPRIME.csprojAssemblyReference.cache
+C:\Users\alexa\source\repos\SAXTONPRIME\obj\Debug\netstandard2.0\PluginInfo.cs
+C:\Users\alexa\source\repos\SAXTONPRIME\obj\Debug\netstandard2.0\SAXTONPRIME.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\SAXTONPRIME\obj\Debug\netstandard2.0\SAXTONPRIME.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\SAXTONPRIME\obj\Debug\netstandard2.0\SAXTONPRIME.AssemblyInfo.cs
+C:\Users\alexa\source\repos\SAXTONPRIME\obj\Debug\netstandard2.0\SAXTONPRIME.csproj.CopyComplete
+C:\Users\alexa\source\repos\SAXTONPRIME\obj\Debug\netstandard2.0\SAXTONPRIME.dll
+C:\Users\alexa\source\repos\SAXTONPRIME\obj\Debug\netstandard2.0\SAXTONPRIME.pdb
